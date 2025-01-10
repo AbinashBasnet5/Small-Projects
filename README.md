@@ -8,6 +8,7 @@ The app fetches the latest exchange rates from an external API, ensuring that us
 - Multiple currencies supported
   - USD to EUR
   - EUR to GBP
+  - and so on 
 - Easy-to-use interface
 
 
